@@ -1,11 +1,12 @@
 # Maxim Martsinovich
 
 ### Contacts
+
 Email: name.else@yandex.by
 Location: Belarus, Minsk
 
 ### Summary
-I am 30 years. I live and work in the city of Minsk. I am a system administrator in a company. In life I strive to learn everything new for myself.
+I`m 30 years. I live and work in the city of Minsk. I`m a system administrator in a company. In life I strive to learn everything new for myself.
 My strengths: I know how to work in a team, communication skills, the ability to plan time, I quickly adapt to non-standard situations. 
 I want to continue my studies on the RS School platform.
 ### Skills
@@ -54,4 +55,4 @@ Java courses on YouTube
 I have no experience
 ### Languages
 * Russian - native speaker
-* English - A2 
+* English - A2 (always learning)
