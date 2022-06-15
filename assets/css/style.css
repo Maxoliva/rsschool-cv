@@ -250,6 +250,19 @@ pre {
     margin-bottom: 50px;
 }
 
+.courses::before {
+    content: "";
+
+    position: absolute;
+    top: -10px;
+    left: 20px;
+
+    width: 600px;
+    height: 4px;
+
+    background-color: #202026;
+}
+
 .courses-title {
     margin-bottom: 40px;
 }
